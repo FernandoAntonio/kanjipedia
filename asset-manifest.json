@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/kanjipedia/static/js/main.beb65afb.chunk.js",
+    "main.js.map": "/kanjipedia/static/js/main.beb65afb.chunk.js.map",
+    "runtime-main.js": "/kanjipedia/static/js/runtime-main.d0a28120.js",
+    "runtime-main.js.map": "/kanjipedia/static/js/runtime-main.d0a28120.js.map",
+    "static/js/2.eefdaa6b.chunk.js": "/kanjipedia/static/js/2.eefdaa6b.chunk.js",
+    "static/js/2.eefdaa6b.chunk.js.map": "/kanjipedia/static/js/2.eefdaa6b.chunk.js.map",
+    "index.html": "/kanjipedia/index.html",
+    "static/js/2.eefdaa6b.chunk.js.LICENSE.txt": "/kanjipedia/static/js/2.eefdaa6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0a28120.js",
+    "static/js/2.eefdaa6b.chunk.js",
+    "static/js/main.beb65afb.chunk.js"
+  ]
+}
